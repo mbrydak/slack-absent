@@ -1,7 +1,7 @@
 {
   "name": "slack-absent",
   "version": "1.0.0",
-  "description": "slack app for reporting absencies",
+  "description": "slack app for reporting absences",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
